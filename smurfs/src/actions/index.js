@@ -1,4 +1,3 @@
-
 import axios from 'axios';
 export const FETCH_SMURF ='FETCH_SMURF'
 export const FETCH_SMURF_SUCCESS = 'FETCH_SMURF_SUCCESS'
@@ -9,8 +8,6 @@ export const UPDATE_SMURF = 'UPDATE_SMURF'
 export const DELETE_SMURF = 'DELETE_SMURF'
 export const ADD_SMURF_SUCCESS = 'ADD_SMURF_SUCCESS'
 export const ADD_SMURF_FAILURE = 'ADD_SMURF_FAILURE'
-
-
 
 
 export const fetchSmurfs = ()=>{
