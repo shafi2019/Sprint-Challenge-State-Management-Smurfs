@@ -26,3 +26,23 @@
   from { transform: rotate(0deg); }
   to { transform: rotate(360deg); }
 }
+
+.smurfs{
+  border: 2px solid dodgerblue;
+  color: white;
+  background-color: navy;
+  border-radius:15px;
+  width: 50%;
+  align-content: center;
+}
+
+.SmurfForm {
+  margin: 40px;
+}
+
+form {
+  padding: 50px;
+}
+.container {
+  margin: 20px;
+}
